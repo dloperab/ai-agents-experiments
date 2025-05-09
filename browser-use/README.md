@@ -33,6 +33,12 @@ OPENAI_API_KEY="YOUR_API_KEY_HERE"
 python foundations/01_quickstart.py
 ```
 
+## Resources
+
+- [Browser Use](https://browser-use.com/)
+- [Browser Use Docs](https://docs.browser-use.com/introduction)
+- [Patchright library](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright)
+
 ## Contributing
 
 Feel free to contribute to this project by submitting issues or pull requests.
