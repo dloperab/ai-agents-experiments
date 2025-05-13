@@ -28,10 +28,17 @@ Create a `.env` file based on `.env.example`:
 OPENAI_API_KEY="YOUR_API_KEY_HERE"
 ```
 
-3. Run the quickstart example:
-```bash
-python foundations/01_quickstart.py
-```
+3. Run the experiments:
+
+    **01 - Quickstart**
+    ```bash
+    poetry run python foundations/01_quickstart.py
+    ```
+
+    **02 - Agent Settings**
+    ```bash
+    poetry run python foundations/02_agent_settings.py
+    ```
 
 ## Resources
 
