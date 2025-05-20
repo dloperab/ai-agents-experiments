@@ -5,7 +5,8 @@ This module provides tools and examples for browser automation and web interacti
 ## Structure
 
 - `foundations/`: Contains basic examples and quickstart guides
-  - `01_quickstart.py`: A simple example showing how to use the browser agent for price comparison
+  - `01_quickstart.py`: A minimal example showing how to create and run a browser agent to fetch stock prices
+  - `02_agent_settings.py`: Demonstrates various agent configurations including conversation saving, system message customization, history tracking, initial actions, and planner integration
 
 ## Features
 
@@ -25,7 +26,7 @@ uv run patchright install
 2. Set up your environment variables in a `.env` file:
 Create a `.env` file based on `.env.example`:
 ```
-OPENAI_API_KEY="YOUR_API_KEY_HERE"
+OPENAI_API_KEY=
 ```
 
 3. Run the experiments:
