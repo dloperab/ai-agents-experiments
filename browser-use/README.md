@@ -32,12 +32,12 @@ OPENAI_API_KEY="YOUR_API_KEY_HERE"
 
     **01 - Quickstart**
     ```bash
-    poetry run python foundations/01_quickstart.py
+    uv run python foundations/01_quickstart.py
     ```
 
     **02 - Agent Settings**
     ```bash
-    poetry run python foundations/02_agent_settings.py
+    uv python run foundations/02_agent_settings.py
     ```
 
 ## Resources
