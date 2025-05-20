@@ -17,19 +17,13 @@ This module provides tools and examples for browser automation and web interacti
 
 ## Quick Start
 
-1. Install the required dependencies:
-```bash
-uv pip install browser-use
-uv run patchright install
-```
-
-2. Set up your environment variables in a `.env` file:
+1. Set up your environment variables in a `.env` file:
 Create a `.env` file based on `.env.example`:
 ```
 OPENAI_API_KEY=
 ```
 
-3. Run the experiments:
+2. Run the experiments:
 
     **01 - Quickstart**
     ```bash
