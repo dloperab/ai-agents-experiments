@@ -1,6 +1,6 @@
-# AI Agents Experiments
+# AI Web Agents Experiments
 
-This repository contains a collection of experiments and implementations of AI agents using various frameworks and approaches. The project explores different ways to create and utilize AI agents for various tasks.
+This repository contains a collection of experiments and implementations of AI Web Agents using various frameworks and approaches. The project explores different ways to create and utilize AI Web Agents for various tasks.
 
 ## Requirements
 
@@ -23,8 +23,8 @@ This repository contains a collection of experiments and implementations of AI a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/dloperab/ai-agents-experiments.git
-cd ai-agents-experiments
+git clone https://github.com/dloperab/ai-web-agents-experiments.git
+cd ai-web-agents-experiments
 ```
 
 2. Create and activate environment:
